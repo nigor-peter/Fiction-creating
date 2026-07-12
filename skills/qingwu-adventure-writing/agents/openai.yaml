@@ -1,0 +1,4 @@
+interface:
+  display_name: "青梧探险写作"
+  short_description: "延续《雾岭灯火》世界观，生成中国民俗少年探险故事。"
+  default_prompt: "使用青梧探险写作 skill，帮我创作一段《雾岭灯火》相关人物、章节、场景或剧情。"
